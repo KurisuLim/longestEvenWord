@@ -5,6 +5,6 @@
 * to find the longest even word. Then use Print to display the result.
 
 ## Extra Challenge
-[X] Make a simple logo
-[ ] Make it interactive
-[ ] Display the current time and date
+* [X] Make a simple logo
+* [ ] Make it interactive
+* [ ] Display the current time and date
